@@ -7,8 +7,11 @@ O objetivo principal foi praticar a estruturação de páginas web e a estiliza�
 O projeto consiste em um site multi-páginas, para explorar a lógica e navegação entre elas.
 
 index.html
+
 jogos.html
+
 smartphones.html
+
 notebooks.html
 
 Assets: Organização de pastas para imagens e folhas de estilo CSS.
