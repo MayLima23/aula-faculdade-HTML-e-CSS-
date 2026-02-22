@@ -17,6 +17,9 @@ notebooks.html
 Assets: Organização de pastas para imagens e folhas de estilo CSS.
 
 🛠️ Tecnologias Utilizadas
+
 HTML5 🧱
+
 CSS3 🎨
+
 Git & GitHub 🐙
