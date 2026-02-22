@@ -1,5 +1,6 @@
 🚀 Projeto: Aula de HTML5 e CSS3
-Este repositório contém o projeto desenvolvido durante as aulas práticas de HTLM e CSS da faculdade. 
+Este repositório contém o projeto desenvolvido durante as aulas práticas de HTLM e CSS da faculdade.
+
 O objetivo principal foi praticar a estruturação de páginas web e a estilização com CSS.
 
 📋 Sobre o Projeto
